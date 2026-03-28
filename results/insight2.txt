@@ -1,0 +1,1 @@
+The average tempo is 122.27 BPM. Explicit tracks represent 8.60% of the dataset, which means most songs are non-explicit.
