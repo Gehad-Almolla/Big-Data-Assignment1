@@ -1,0 +1,2 @@
+https://hub.docker.com/repository/docker/ohoudelkhawaga/customer-analytics-final/general
+https://github.com/Gehad-Almolla/Big-Data-Assignment1
